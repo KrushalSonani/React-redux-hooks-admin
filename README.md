@@ -1,4 +1,4 @@
-## [Simple React Admin template]
+## [Simple React-redux-hook Admin template]
 
 Completly **free** simple admin template starter for React. 
 
