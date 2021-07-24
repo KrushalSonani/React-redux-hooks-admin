@@ -1,0 +1,16 @@
+.sidebar-dark .sidebar-brand span{
+    color: rgba(255,255,255,.3)  !important;
+}
+
+
+.sidebar .nav-item .nav-link {
+    padding: 10px 15px !important;
+}
+
+.sidebar hr.sidebar-divider {
+    margin: 0 5px 5px !important;
+}
+
+.breadcrumb-item a{
+    text-transform: capitalize;
+}
