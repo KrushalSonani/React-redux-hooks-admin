@@ -6,7 +6,13 @@ Only **core functionalities** in order to avoid huge refactor/cleaning.
 
 **Ready to start new project**, small amount of dependencies, easy configuration, modern and fast. 
 
-Created by Krushal sonani trainers for training participants. 
+Created by Krushal Sonani trainers for training participants. 
+
+**Check also Cheatsheets:**
+
+[React](https://github.com/KrushalSonani/React-redux-hooks-admin) :star:
+
+
 
 
 ## Features
